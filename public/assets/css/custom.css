@@ -1,0 +1,92 @@
+
+
+nav,footer.page-footer,footer.page-footer .footer-copyright{
+	
+
+background-color: #E7E7E7;
+}
+.footer-copyright{
+	text-align: center;
+	margin-top: 10px;
+}
+
+ul li a i{
+	color: #E7E7E7;
+	margin-right: 10px;
+	margin-top: 0px;
+}
+.post{
+	padding-top: 5px;
+	margin-top: 5px;
+}
+
+.card-action i{
+	margin: 10px;
+} 
+i.fa{
+	color: #333;
+	
+}
+a:hover{
+	background-color: #FFF;
+	color: #337AB7;
+	border-color: #2E6DA4;
+	text-decoration: none;
+	opacity: .7;
+}
+.load-more{
+	text-align: center;
+}
+.btn-h1,.form-spacing{
+	margin-top: 18px;
+}
+.nav-search-bar{
+	margin-top:1%;
+}
+.nav-btn-spacing{
+	/*padding: 5px auto;*/
+	margin-top: 9px;
+	padding-bottom: 5px;
+	display: inline-block;
+	/*padding: 6px 12px;*/
+	margin-bottom: 0px;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.42857;
+	text-align: center;
+	vertical-align: middle;
+}
+.w3-card-4{
+	/*padding:10px; */
+	margin-left: 30%;
+}
+.panel-heading{
+	text-align: center;
+}
+.nav-btn-width{
+	width: 100px;
+}
+.left-inner-addon {
+    position: relative;
+}
+.left-inner-addon input {
+    padding-left: 30px;    
+}
+.left-inner-addon i {
+    position: absolute;
+    padding: 10px 12px;
+    pointer-events: none;
+}
+
+.right-inner-addon {
+    position: relative;
+}
+.right-inner-addon input {
+    padding-right: 30px;    
+}
+.right-inner-addon i {
+    position: absolute;
+    right: 0px;
+    padding: 10px 12px;
+    pointer-events: none;
+}

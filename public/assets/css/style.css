@@ -1,0 +1,36 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.footer-text {
+  text-align:  center;
+}
+
+ul.form-errors li{
+
+	
+	text-align: center;
+}
+
+.navbar{
+
+	padding-top: 20px;
+	margin-top: 20px;
+}
+
+body{
+
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.add-task-panel{
+
+	margin-left:50px;
+	margin-right:50px;
+
+}
